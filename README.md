@@ -7,6 +7,9 @@ Setps I did:
     npx tailwindcss init -p
 3. npm i -D daisyui@latest
 
+4. npm install moment --save
+5. npm install react-fast-marquee --save
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
