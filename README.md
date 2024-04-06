@@ -1,5 +1,6 @@
 Setps I did:
 1. npm create vite@latest name-of-your-project -- --template react
+
     cd <your new project directory>
     npm install react-router-dom localforage match-sorter sort-by
     npm run dev
@@ -9,12 +10,8 @@ Setps I did:
 
 4. npm install moment --save
 5. npm install react-fast-marquee --save
+6. npm i react-icons
 
-# React + Vite
+https://www.facebook.com/61555168021460/videos/pcb.869394414955422/797823282198577
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://www.facebook.com/61555168021460/videos/pcb.869394414955422/1439098433403032

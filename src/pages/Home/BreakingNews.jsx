@@ -5,13 +5,13 @@ const BreakingNews = () => {
     <div className="flex">
       <button className="btn bg-red-600 text-white">Latest</button>
       <Marquee pauseOnHover={true} speed={100}>
-        <Link className="mr-12" to='./'>
+        <Link className="mr-12 no-underline text-green-500" to='./'>
         Match Highlights: Germany vs Spain — as it happened   !   Match Highlights: Germany vs Spain as...
         </Link>
-        <Link className="mr-12" to='./'>
+        <Link className="mr-12 no-underline text-green-500" to='./'>
         Match Highlights: Germany vs Spain — as it happened   !   Match Highlights: Germany vs Spain as...
         </Link>
-        <Link className="mr-12" to='./'>
+        <Link className="mr-12 no-underline text-green-500" to='./'>
         Match Highlights: Germany vs Spain — as it happened   !   Match Highlights: Germany vs Spain as...
         </Link>
       </Marquee>

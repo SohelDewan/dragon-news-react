@@ -12,6 +12,9 @@ const Navbar = () => {
       <li>
         <NavLink to="/career">Career</NavLink>
       </li>
+      {/* <li>
+        <NavLink to="/login">LogIn</NavLink>
+      </li> */}
     </>
   );
   return (
@@ -52,7 +55,7 @@ const Navbar = () => {
               src={userDefault}
             />
           </div>
-        <Link>
+        <Link to='/login'>
           <button className="btn">LogIn</button>
         </Link>
       </div>
